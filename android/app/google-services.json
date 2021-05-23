@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "418957549581",
+    "project_id": "facerecognitioncompanion",
+    "storage_bucket": "facerecognitioncompanion.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418957549581:android:e58aeb1ede1b1228ff7544",
+        "android_client_info": {
+          "package_name": "com.example.face_recognition_companion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418957549581-sr01nutga60de01rj8153ifuuav5eojs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAA_qwYG0VvpytyDqkM5Yojg9OzYq0JD_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418957549581-sr01nutga60de01rj8153ifuuav5eojs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
